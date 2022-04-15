@@ -1,7 +1,7 @@
 
 ```
-make rm-volumes
-docker-compose up
+make clean
+make start
 ```
 
 Use `8124`, `8125`, `8126` ports for shards:
